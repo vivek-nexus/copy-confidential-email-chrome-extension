@@ -1,6 +1,11 @@
 # Copy confidential email chrome extension
 Copy confidential email to clipboard as text. For GMail and GSuite emails.
 
+<img src="demo.gif" />
+<br />
+<br />
+<br />
+
 # Install this extension
 Since I have no intention to publish this extension to the chrome store, please load this extension to your chrome in unpacked form.
 
