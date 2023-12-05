@@ -2,7 +2,6 @@
 
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-    alert("Is the confidential email open in the current tab?")
     if (request.type === 'copyText') {
         if (document.querySelector(".hi")) {
             const element = document.querySelector(".hi").parentElement.children[2];
