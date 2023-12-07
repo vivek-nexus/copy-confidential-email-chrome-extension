@@ -19,3 +19,11 @@ Since I have no intention to publish this extension to the chrome store, please 
 - Download [extension.zip](https://yakshag.github.io/copy-confidential-email-chrome-extension/extension.zip)
 - Extract the files as a directory (folder)
 - Follow the instructions here to load the unpacked extension from the extracted directory [https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+
+<br />
+<br />
+<br />
+
+# Testing credits
+1. Abhishek Tiwary
+2. Roshni Nayak
